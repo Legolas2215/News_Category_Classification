@@ -1,5 +1,8 @@
 # Text Classification with NLP: TF-IDF vs. Word2Vec vs. BERT
 
+[Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
+
+
 This repository provides code and resources for exploring three popular approaches for text classification using natural language processing (NLP) techniques: TF-IDF, Word2Vec, and BERT.
 Text classification is a fundamental task in NLP, with applications ranging from sentiment analysis and topic categorization to spam detection and intent recognition. The goal is to automatically assign predefined categories or labels to text documents based on their content.
 
